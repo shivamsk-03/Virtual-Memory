@@ -1,0 +1,440 @@
+DEBUGGING LRU: Size of Pages: 5
+DEBUGGING LRU: Iteration Number: 0
+DEBUGGING LRU: Memory Location: 361
+DEBUGGING LRU: Size of process is: 500
+Getting pid: 0 requesting page number: 72
+Page is not in memory!
+Swapped page!
+
+DEBUGGING LRU: Size of Pages: 5
+DEBUGGING LRU: Iteration Number: 1
+DEBUGGING LRU: Memory Location: 362
+DEBUGGING LRU: Size of process is: 500
+Getting pid: 0 requesting page number: 72
+Page is already in memory!
+Page swapped at the last of memory!
+
+DEBUGGING LRU: Size of Pages: 5
+DEBUGGING LRU: Iteration Number: 2
+DEBUGGING LRU: Memory Location: 363
+DEBUGGING LRU: Size of process is: 500
+Getting pid: 0 requesting page number: 72
+Page is already in memory!
+Page swapped at the last of memory!
+
+DEBUGGING LRU: Size of Pages: 5
+DEBUGGING LRU: Iteration Number: 3
+DEBUGGING LRU: Memory Location: 361
+DEBUGGING LRU: Size of process is: 500
+Getting pid: 0 requesting page number: 72
+Page is already in memory!
+Page swapped at the last of memory!
+
+DEBUGGING LRU: Size of Pages: 5
+DEBUGGING LRU: Iteration Number: 4
+DEBUGGING LRU: Memory Location: 362
+DEBUGGING LRU: Size of process is: 500
+Getting pid: 0 requesting page number: 72
+Page is already in memory!
+Page swapped at the last of memory!
+
+DEBUGGING LRU: Size of Pages: 5
+DEBUGGING LRU: Iteration Number: 5
+DEBUGGING LRU: Memory Location: 363
+DEBUGGING LRU: Size of process is: 500
+Getting pid: 0 requesting page number: 72
+Page is already in memory!
+Page swapped at the last of memory!
+
+DEBUGGING LRU: Size of Pages: 5
+DEBUGGING LRU: Iteration Number: 6
+DEBUGGING LRU: Memory Location: 361
+DEBUGGING LRU: Size of process is: 500
+Getting pid: 0 requesting page number: 72
+Page is already in memory!
+Page swapped at the last of memory!
+
+DEBUGGING LRU: Size of Pages: 5
+DEBUGGING LRU: Iteration Number: 7
+DEBUGGING LRU: Memory Location: 362
+DEBUGGING LRU: Size of process is: 500
+Getting pid: 0 requesting page number: 72
+Page is already in memory!
+Page swapped at the last of memory!
+
+DEBUGGING LRU: Size of Pages: 5
+DEBUGGING LRU: Iteration Number: 8
+DEBUGGING LRU: Memory Location: 363
+DEBUGGING LRU: Size of process is: 500
+Getting pid: 0 requesting page number: 72
+Page is already in memory!
+Page swapped at the last of memory!
+
+DEBUGGING LRU: Size of Pages: 5
+DEBUGGING LRU: Iteration Number: 9
+DEBUGGING LRU: Memory Location: 469
+DEBUGGING LRU: Size of process is: 500
+Getting pid: 0 requesting page number: 93
+Page is not in memory!
+Swapped page!
+
+DEBUGGING LRU: Size of Pages: 5
+DEBUGGING LRU: Iteration Number: 10
+DEBUGGING LRU: Memory Location: 470
+DEBUGGING LRU: Size of process is: 500
+Getting pid: 0 requesting page number: 93
+Page is already in memory!
+Page swapped at the last of memory!
+
+DEBUGGING LRU: Size of Pages: 5
+DEBUGGING LRU: Iteration Number: 11
+DEBUGGING LRU: Memory Location: 65
+DEBUGGING LRU: Size of process is: 250
+Getting pid: 1 requesting page number: 12
+Page is already in memory!
+Page swapped at the last of memory!
+
+DEBUGGING LRU: Size of Pages: 5
+DEBUGGING LRU: Iteration Number: 12
+DEBUGGING LRU: Memory Location: 66
+DEBUGGING LRU: Size of process is: 250
+Getting pid: 1 requesting page number: 13
+Page is already in memory!
+Page swapped at the last of memory!
+
+DEBUGGING LRU: Size of Pages: 5
+DEBUGGING LRU: Iteration Number: 13
+DEBUGGING LRU: Memory Location: 67
+DEBUGGING LRU: Size of process is: 250
+Getting pid: 1 requesting page number: 13
+Page is already in memory!
+Page swapped at the last of memory!
+
+DEBUGGING LRU: Size of Pages: 5
+DEBUGGING LRU: Iteration Number: 14
+DEBUGGING LRU: Memory Location: 65
+DEBUGGING LRU: Size of process is: 250
+Getting pid: 1 requesting page number: 12
+Page is already in memory!
+Page swapped at the last of memory!
+
+DEBUGGING LRU: Size of Pages: 5
+DEBUGGING LRU: Iteration Number: 15
+DEBUGGING LRU: Memory Location: 66
+DEBUGGING LRU: Size of process is: 250
+Getting pid: 1 requesting page number: 13
+Page is already in memory!
+Page swapped at the last of memory!
+
+DEBUGGING LRU: Size of Pages: 5
+DEBUGGING LRU: Iteration Number: 16
+DEBUGGING LRU: Memory Location: 67
+DEBUGGING LRU: Size of process is: 250
+Getting pid: 1 requesting page number: 13
+Page is already in memory!
+Page swapped at the last of memory!
+
+DEBUGGING LRU: Size of Pages: 5
+DEBUGGING LRU: Iteration Number: 17
+DEBUGGING LRU: Memory Location: 65
+DEBUGGING LRU: Size of process is: 250
+Getting pid: 1 requesting page number: 12
+Page is already in memory!
+Page swapped at the last of memory!
+
+DEBUGGING LRU: Size of Pages: 5
+DEBUGGING LRU: Iteration Number: 18
+DEBUGGING LRU: Memory Location: 66
+DEBUGGING LRU: Size of process is: 250
+Getting pid: 1 requesting page number: 13
+Page is already in memory!
+Page swapped at the last of memory!
+
+DEBUGGING LRU: Size of Pages: 5
+DEBUGGING LRU: Iteration Number: 19
+DEBUGGING LRU: Memory Location: 67
+DEBUGGING LRU: Size of process is: 250
+Getting pid: 1 requesting page number: 13
+Page is already in memory!
+Page swapped at the last of memory!
+
+DEBUGGING LRU: Size of Pages: 5
+DEBUGGING LRU: Iteration Number: 20
+DEBUGGING LRU: Memory Location: 106
+DEBUGGING LRU: Size of process is: 250
+Getting pid: 1 requesting page number: 21
+Page is not in memory!
+Swapped page!
+
+DEBUGGING LRU: Size of Pages: 5
+DEBUGGING LRU: Iteration Number: 21
+DEBUGGING LRU: Memory Location: 107
+DEBUGGING LRU: Size of process is: 250
+Getting pid: 1 requesting page number: 21
+Page is already in memory!
+Page swapped at the last of memory!
+
+DEBUGGING LRU: Size of Pages: 5
+DEBUGGING LRU: Iteration Number: 22
+DEBUGGING LRU: Memory Location: 100
+DEBUGGING LRU: Size of process is: 400
+Getting pid: 2 requesting page number: 19
+Page is not in memory!
+Swapped page!
+
+DEBUGGING LRU: Size of Pages: 5
+DEBUGGING LRU: Iteration Number: 23
+DEBUGGING LRU: Memory Location: 101
+DEBUGGING LRU: Size of process is: 400
+Getting pid: 2 requesting page number: 20
+Page is not in memory!
+Swapped page!
+
+DEBUGGING LRU: Size of Pages: 5
+DEBUGGING LRU: Iteration Number: 24
+DEBUGGING LRU: Memory Location: 102
+DEBUGGING LRU: Size of process is: 400
+Getting pid: 2 requesting page number: 20
+Page is already in memory!
+Page swapped at the last of memory!
+
+DEBUGGING LRU: Size of Pages: 5
+DEBUGGING LRU: Iteration Number: 25
+DEBUGGING LRU: Memory Location: 100
+DEBUGGING LRU: Size of process is: 400
+Getting pid: 2 requesting page number: 19
+Page is already in memory!
+Page swapped at the last of memory!
+
+DEBUGGING LRU: Size of Pages: 5
+DEBUGGING LRU: Iteration Number: 26
+DEBUGGING LRU: Memory Location: 101
+DEBUGGING LRU: Size of process is: 400
+Getting pid: 2 requesting page number: 20
+Page is already in memory!
+Page swapped at the last of memory!
+
+DEBUGGING LRU: Size of Pages: 5
+DEBUGGING LRU: Iteration Number: 27
+DEBUGGING LRU: Memory Location: 102
+DEBUGGING LRU: Size of process is: 400
+Getting pid: 2 requesting page number: 20
+Page is already in memory!
+Page swapped at the last of memory!
+
+DEBUGGING LRU: Size of Pages: 5
+DEBUGGING LRU: Iteration Number: 28
+DEBUGGING LRU: Memory Location: 100
+DEBUGGING LRU: Size of process is: 400
+Getting pid: 2 requesting page number: 19
+Page is already in memory!
+Page swapped at the last of memory!
+
+DEBUGGING LRU: Size of Pages: 5
+DEBUGGING LRU: Iteration Number: 29
+DEBUGGING LRU: Memory Location: 101
+DEBUGGING LRU: Size of process is: 400
+Getting pid: 2 requesting page number: 20
+Page is already in memory!
+Page swapped at the last of memory!
+
+DEBUGGING LRU: Size of Pages: 5
+DEBUGGING LRU: Iteration Number: 30
+DEBUGGING LRU: Memory Location: 102
+DEBUGGING LRU: Size of process is: 400
+Getting pid: 2 requesting page number: 20
+Page is already in memory!
+Page swapped at the last of memory!
+
+DEBUGGING LRU: Size of Pages: 5
+DEBUGGING LRU: Iteration Number: 31
+DEBUGGING LRU: Memory Location: 114
+DEBUGGING LRU: Size of process is: 400
+Getting pid: 2 requesting page number: 22
+Page is not in memory!
+Swapped page!
+
+DEBUGGING LRU: Size of Pages: 5
+DEBUGGING LRU: Iteration Number: 32
+DEBUGGING LRU: Memory Location: 115
+DEBUGGING LRU: Size of process is: 400
+Getting pid: 2 requesting page number: 22
+Page is already in memory!
+Page swapped at the last of memory!
+
+DEBUGGING LRU: Size of Pages: 5
+DEBUGGING LRU: Iteration Number: 33
+DEBUGGING LRU: Memory Location: 282
+DEBUGGING LRU: Size of process is: 300
+Getting pid: 3 requesting page number: 56
+Page is not in memory!
+Swapped page!
+
+DEBUGGING LRU: Size of Pages: 5
+DEBUGGING LRU: Iteration Number: 34
+DEBUGGING LRU: Memory Location: 283
+DEBUGGING LRU: Size of process is: 300
+Getting pid: 3 requesting page number: 56
+Page is already in memory!
+Page swapped at the last of memory!
+
+DEBUGGING LRU: Size of Pages: 5
+DEBUGGING LRU: Iteration Number: 35
+DEBUGGING LRU: Memory Location: 284
+DEBUGGING LRU: Size of process is: 300
+Getting pid: 3 requesting page number: 56
+Page is already in memory!
+Page swapped at the last of memory!
+
+DEBUGGING LRU: Size of Pages: 5
+DEBUGGING LRU: Iteration Number: 36
+DEBUGGING LRU: Memory Location: 282
+DEBUGGING LRU: Size of process is: 300
+Getting pid: 3 requesting page number: 56
+Page is already in memory!
+Page swapped at the last of memory!
+
+DEBUGGING LRU: Size of Pages: 5
+DEBUGGING LRU: Iteration Number: 37
+DEBUGGING LRU: Memory Location: 283
+DEBUGGING LRU: Size of process is: 300
+Getting pid: 3 requesting page number: 56
+Page is already in memory!
+Page swapped at the last of memory!
+
+DEBUGGING LRU: Size of Pages: 5
+DEBUGGING LRU: Iteration Number: 38
+DEBUGGING LRU: Memory Location: 284
+DEBUGGING LRU: Size of process is: 300
+Getting pid: 3 requesting page number: 56
+Page is already in memory!
+Page swapped at the last of memory!
+
+DEBUGGING LRU: Size of Pages: 5
+DEBUGGING LRU: Iteration Number: 39
+DEBUGGING LRU: Memory Location: 282
+DEBUGGING LRU: Size of process is: 300
+Getting pid: 3 requesting page number: 56
+Page is already in memory!
+Page swapped at the last of memory!
+
+DEBUGGING LRU: Size of Pages: 5
+DEBUGGING LRU: Iteration Number: 40
+DEBUGGING LRU: Memory Location: 283
+DEBUGGING LRU: Size of process is: 300
+Getting pid: 3 requesting page number: 56
+Page is already in memory!
+Page swapped at the last of memory!
+
+DEBUGGING LRU: Size of Pages: 5
+DEBUGGING LRU: Iteration Number: 41
+DEBUGGING LRU: Memory Location: 284
+DEBUGGING LRU: Size of process is: 300
+Getting pid: 3 requesting page number: 56
+Page is already in memory!
+Page swapped at the last of memory!
+
+DEBUGGING LRU: Size of Pages: 5
+DEBUGGING LRU: Iteration Number: 42
+DEBUGGING LRU: Memory Location: 89
+DEBUGGING LRU: Size of process is: 300
+Getting pid: 3 requesting page number: 17
+Page is not in memory!
+Swapped page!
+
+DEBUGGING LRU: Size of Pages: 5
+DEBUGGING LRU: Iteration Number: 43
+DEBUGGING LRU: Memory Location: 90
+DEBUGGING LRU: Size of process is: 300
+Getting pid: 3 requesting page number: 17
+Page is already in memory!
+Page swapped at the last of memory!
+
+DEBUGGING LRU: Size of Pages: 5
+DEBUGGING LRU: Iteration Number: 44
+DEBUGGING LRU: Memory Location: 370
+DEBUGGING LRU: Size of process is: 600
+Getting pid: 4 requesting page number: 73
+Page is not in memory!
+Swapped page!
+
+DEBUGGING LRU: Size of Pages: 5
+DEBUGGING LRU: Iteration Number: 45
+DEBUGGING LRU: Memory Location: 371
+DEBUGGING LRU: Size of process is: 600
+Getting pid: 4 requesting page number: 74
+Page is not in memory!
+Swapped page!
+
+DEBUGGING LRU: Size of Pages: 5
+DEBUGGING LRU: Iteration Number: 46
+DEBUGGING LRU: Memory Location: 372
+DEBUGGING LRU: Size of process is: 600
+Getting pid: 4 requesting page number: 74
+Page is already in memory!
+Page swapped at the last of memory!
+
+DEBUGGING LRU: Size of Pages: 5
+DEBUGGING LRU: Iteration Number: 47
+DEBUGGING LRU: Memory Location: 370
+DEBUGGING LRU: Size of process is: 600
+Getting pid: 4 requesting page number: 73
+Page is already in memory!
+Page swapped at the last of memory!
+
+DEBUGGING LRU: Size of Pages: 5
+DEBUGGING LRU: Iteration Number: 48
+DEBUGGING LRU: Memory Location: 371
+DEBUGGING LRU: Size of process is: 600
+Getting pid: 4 requesting page number: 74
+Page is already in memory!
+Page swapped at the last of memory!
+
+DEBUGGING LRU: Size of Pages: 5
+DEBUGGING LRU: Iteration Number: 49
+DEBUGGING LRU: Memory Location: 372
+DEBUGGING LRU: Size of process is: 600
+Getting pid: 4 requesting page number: 74
+Page is already in memory!
+Page swapped at the last of memory!
+
+DEBUGGING LRU: Size of Pages: 5
+DEBUGGING LRU: Iteration Number: 50
+DEBUGGING LRU: Memory Location: 370
+DEBUGGING LRU: Size of process is: 600
+Getting pid: 4 requesting page number: 73
+Page is already in memory!
+Page swapped at the last of memory!
+
+DEBUGGING LRU: Size of Pages: 5
+DEBUGGING LRU: Iteration Number: 51
+DEBUGGING LRU: Memory Location: 371
+DEBUGGING LRU: Size of process is: 600
+Getting pid: 4 requesting page number: 74
+Page is already in memory!
+Page swapped at the last of memory!
+
+DEBUGGING LRU: Size of Pages: 5
+DEBUGGING LRU: Iteration Number: 52
+DEBUGGING LRU: Memory Location: 372
+DEBUGGING LRU: Size of process is: 600
+Getting pid: 4 requesting page number: 74
+Page is already in memory!
+Page swapped at the last of memory!
+
+DEBUGGING LRU: Size of Pages: 5
+DEBUGGING LRU: Iteration Number: 53
+DEBUGGING LRU: Memory Location: 476
+DEBUGGING LRU: Size of process is: 600
+Getting pid: 4 requesting page number: 95
+Page is not in memory!
+Swapped page!
+
+DEBUGGING LRU: Size of Pages: 5
+DEBUGGING LRU: Iteration Number: 54
+DEBUGGING LRU: Memory Location: 477
+DEBUGGING LRU: Size of process is: 600
+Getting pid: 4 requesting page number: 95
+Page is already in memory!
+Page swapped at the last of memory!
+
